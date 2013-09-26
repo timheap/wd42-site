@@ -11,5 +11,5 @@ The following is assumed:
 Simply run the following and within no time everything will be good in the world.
 
 ```bash
-# curl https://raw.github.com/wd42/wd42-deployment/master/bootstrap.sh | bash
+# curl https://raw.github.com/wd42/wd42-site/deplyment/bootstrap.sh | bash
 ```
